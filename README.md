@@ -5,6 +5,8 @@ and either one Organic Chemistry and S&P Chemistry. Pass grade for each subject 
 I used IF ELSE statement with the help of AND and OR functions in Excel.
 <img width="1358" height="415" alt="image" src="https://github.com/user-attachments/assets/cc8df19a-00a5-4688-890b-8c88f7ee2231" />
  The pseudocode was as follows:
+ <img width="658" height="294" alt="image" src="https://github.com/user-attachments/assets/0fe109a1-fca2-45c1-b5be-2e929010136e" />
+
 
 
 #ALX
